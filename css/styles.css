@@ -221,7 +221,7 @@ hr {
 .bottom-links {
   display: inline-block;
   color: #1e836c;
-  line-height: 25px;
+  line-height: 1.5625rem;
 }
 
 .bottom-list {

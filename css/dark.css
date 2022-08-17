@@ -30,7 +30,7 @@ body {
 
 .bar-container {
   /* background-color: #247881; */
-  height: 55px;
+  height: 3.4375rem;
   width: 80%;
   position: absolute;
   margin: 0.2rem 0 0.3125rem 10.5rem;
@@ -47,8 +47,8 @@ body {
 
 .link-list {
   float: right;
-  line-height: 25px;
-  margin-right: 30px;
+  line-height: 1.5625rem;
+  margin-right: 1.875rem;
 }
 
 .links {
@@ -60,7 +60,7 @@ body {
 .list {
   color: #3FA796;
   display: inline-block;
-  margin: 15px 20px;
+  margin: 0.9375rem 1.25rem;
   font-size: 1rem;
   font-weight: 500;
 }
@@ -76,7 +76,7 @@ body {
 
 .profile {
   height: 10.9375rem;
-  margin: 40px auto 10px auto;
+  margin: 2.5rem auto 0.625rem auto;
 }
 
 .title {
@@ -100,7 +100,7 @@ h2 {
   069A8E
   247881
    */
-  margin: 30px auto 10px auto;
+  margin: 1.875rem auto 0.625rem auto;
   color: #1e836c;
 }
 
@@ -111,8 +111,8 @@ h3 {
 
 p {
   color: white;
-  /* color: #545454; */
-  font-size: 15px;
+/*   color: #545454; */
+  font-size: 0.9375rem;
   font-family: 'Merriweather', serif;
   text-indent: 3mm;
 }
@@ -125,8 +125,8 @@ hr {
   color: #e0ebe8;
   border-style: dotted none none none;
   width: 5%;
-  border-width: 5px;
-  margin: 100px auto;
+  border-width: 0.3125rem;
+  margin: 6.25rem auto;
 }
 
 .web {
@@ -142,32 +142,32 @@ hr {
 .top-cloud {
   position: absolute;
   bottom: 0;
-  top: 150px;
-  right: 300px;
+  top: 9.375rem;
+  right: 18.75rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 350px;
-  left: 300px;
+  bottom: 21.875rem;
+  left: 18.75rem;
 }
 
 .icons {
-  height: 250px;
+  height: 15.625rem;
 }
 
 .contacting {
   position: relative;
-  width: 600px;
-  margin: 10px auto;
-  padding: 5px;
-  padding-bottom: 100px;
+  width: 37.5rem;
+  margin: 0.625rem auto;
+  padding: 0.3125rem;
+  padding-bottom: 6.25rem;
 }
 
 .help {
   position: relative;
-  padding: 10px;
-  padding-bottom: 50px;
+  padding: 0.625rem;
+  padding-bottom: 3.125rem;
   font-size: 2rem;
   font-weight: normal;
 }
@@ -221,12 +221,12 @@ hr {
 .bottom-links {
   display: inline-block;
   color: #1e836c;
-  line-height: 25px;
+  line-height: 1.5625rem;
 }
 
 .bottom-list {
   display: inline-block;
-  margin: 15px 20px;
+  margin: 0.9375rem 1.25rem;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: bold;
   line-height: 2rem;
@@ -240,5 +240,5 @@ hr {
 
 .main-background {
   background-color: black;
-  /* background-color: #E4F9F5; */
+/*   background-color: #E4F9F5; */
 }
